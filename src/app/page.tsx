@@ -21,7 +21,7 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <h2 className="mb-3 text-3xl font-semibold">
-            Deploy with Nginx in AWS
+            Deploy with Nginx in AWS ( EC2 )
           </h2>
           <h2 className="mb-3 text-2xl font-semibold mt-5">
             Thant Zin Tun ( Dev ){" "}
