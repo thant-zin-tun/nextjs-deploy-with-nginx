@@ -20,7 +20,9 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <h2 className="mb-3 text-3xl font-semibold">Deploy with Nginx </h2>
+          <h2 className="mb-3 text-3xl font-semibold">
+            Deploy with Nginx in AWS
+          </h2>
           <h2 className="mb-3 text-2xl font-semibold mt-5">
             Thant Zin Tun ( Dev ){" "}
           </h2>
